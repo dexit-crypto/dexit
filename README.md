@@ -4,8 +4,17 @@ Dexit is a decentralized exchange of BEP-20 token on Binance Smart Chain.
 It uses Chainlink oracle to determine equivalent prices of tokens.
 Chainlink enables your contracts to access to any external data source, through a decentralized oracle network..
 
-Live demo: https://dexit.surge.sh/ working on BSC testnet.
-Youtube demo video: https://youtu.be/LAnusWk9fqc
+## Live demo
+
+https://dexit.surge.sh/ working on BSC testnet.
+
+## Youtube demo video
+
+https://youtu.be/LAnusWk9fqc
+
+
+## Price feed oracle
+
 Each token is associated to its corresponded oracle address:
 
 The DEX uses price feed oracle contracts to determine the price: https://docs.chain.link/docs/get-the-latest-price
